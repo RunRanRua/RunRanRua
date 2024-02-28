@@ -1,4 +1,4 @@
-# Hi there, I'm [@RunRanRua]! 👋
+# Hi there, I'm @RunRanRua ! 👋
 
 I'm a ISEP stuendent based in France. Welcome to my GitHub profile! 
 
@@ -25,9 +25,9 @@ I'm a ISEP stuendent based in France. Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Twitter)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: [---]
+- Twitter: [---]
+- Email: [---]
 
 Feel free to reach out if you'd like to collaborate on a project or just to say hello! 😊
 
