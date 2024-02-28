@@ -4,8 +4,8 @@ I'm a ISEP stuendent based in France. Welcome to my GitHub profile!
 
 ## About Me
 
-- 💼 I'm currently learning _**Java**_ - _**JavaScript**_
-- 🌱 I'm passionate about _**Front/Back-end development**_ and _**algorithm**_
+- 💼 I'm currently learning **Java** - **JavaScript**
+- 🌱 I'm passionate about **Front/Back-end development** and **algorithm**
 - 💡 I love to explore new technologies and solve problems.
 - 🎓 ISEP (Institut Supérieur d'Électronique de Paris) 2026 promotion - A1
 
