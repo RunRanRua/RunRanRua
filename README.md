@@ -14,7 +14,7 @@ I'm a ISEP stuendent based in France. Welcome to my GitHub profile!
 ### Backend Development
 - Java
 - C/C++
-- Python
+- Python3
 
 ### Frontend Development
 - HTML5 + CSS3
