@@ -1,6 +1,6 @@
 # Hi there, I'm @RunRanRua ! 👋
 
-I'm a ISEP stuendent based in France. Welcome to my GitHub profile! 
+I'm currently a student in ISEP based in France. Welcome to my GitHub profile! 
 
 ## About Me
 
