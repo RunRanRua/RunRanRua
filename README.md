@@ -1,9 +1,3 @@
-<div align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunRanRua&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
 # Hi, I'm @RunRanRua ! 👋
 
 I'm currently a student in ISEP based in France. Welcome to my GitHub profile! 
@@ -14,6 +8,11 @@ I'm currently a student in ISEP based in France. Welcome to my GitHub profile!
 - 🌱 I'm passionate about **Front/Back-end development** and **algorithm**
 - 💡 I love to explore new technologies and solve problems.
 - 🎓 ISEP (Institut Supérieur d'Électronique de Paris) 2026 promotion - A1
+
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunRanRua&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Skills
 
