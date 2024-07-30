@@ -1,4 +1,9 @@
-# Hi, I'm @RunRanRua ! 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=800&color=8BCEFF&background=FDE0FF00&center=true&vCenter=true&width=600&lines=(+%E2%80%A2%CC%80+%CF%89+%E2%80%A2%CC%81+)%E2%9C%A7+Hi+here+is+RunRanRua+!)](https://git.io/typing-svg)
+</div>
+
+---
 
 I'm currently a student in ISEP based in France. Welcome to my GitHub profile! 
 
