@@ -9,10 +9,13 @@ I'm currently a student in ISEP based in France. Welcome to my GitHub profile!
 - 💡 I love to explore new technologies and solve problems.
 - 🎓 ISEP (Institut Supérieur d'Électronique de Paris) 2026 promotion - A1
 
+--- 
 <div align="center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunRanRua&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+---
 
 ## Skills
 
@@ -38,6 +41,10 @@ Feel free to reach out if you'd like to collaborate on a project or just to say 
 
 
 <!---
+https://shields.io/badges/static-badge         =   to add badge
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RunRanRua&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)       =  visualise contribution graph
+
+
 RunRanRua/RunRanRua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
